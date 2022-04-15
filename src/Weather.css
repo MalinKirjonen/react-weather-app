@@ -50,3 +50,7 @@
 
   line-height: 1;
 }
+
+.float-left {
+  float: left;
+}
