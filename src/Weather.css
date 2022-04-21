@@ -4,6 +4,7 @@
   font-family: Arial, Helvetica, sans-serif;
   border: 1px solid #dadde1;
   color: rgb(135, 135, 135);
+  box-shadow: 5px 5px 5px rgb(210, 207, 191);
 }
 
 .Weather h1 {
