@@ -13,7 +13,7 @@ export default function App() {
             href="https://affectionate-swartz-08ee25.netlify.app/"
             target="_blank"
             title="visit Malin´s coding portfolio"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             Malin Kirjonen
           </a>{" "}
@@ -22,9 +22,18 @@ export default function App() {
             href="https://github.com/MalinKirjonen/react-weather-app"
             title="open-source link"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             Open Sourced on GitHub
+          </a>{" "}
+          and{" "}
+          <a
+            href="https://boisterous-cocada-762a66.netlify.app/"
+            title="Link to Netify"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            hosted on Netify
           </a>
         </footer>
       </div>
